@@ -134,3 +134,8 @@ Gemfile.lock
 .ruby-version
 .ruby-gemset
 
+# macOS General
+.DS_Store
+.AppleDouble
+.LSOverride
+
