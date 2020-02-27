@@ -57,3 +57,6 @@
   - title: Resource Group
     url: /features/ResourceGroup
     not_numbered: true
+  - title: SQL Database
+    url: /features/SQLDatabase
+    not_numbered: true
